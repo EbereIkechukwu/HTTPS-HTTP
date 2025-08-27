@@ -1,0 +1,12 @@
+# Why HTTPS Matters
+
+
+Lately, I have been diving into the difference between HTTP (Hyper Text Transfer Protocol) and HTTPS (Hyper Text Transfer Protocol Secure) and it’s wild how something as simple as an “S” can make a huge difference in online security.
+
+HTTP doesn’t encrypt your data, which means anything you send (like passwords or card details) can be intercepted by attackers. Scary, right?
+
+But with HTTPS, that same data is encrypted, making it way harder for cybercriminals to snoop or tamper with it. It’s like sending a sealed letter instead of a postcard.
+
+#Task 2: As part of my cybersecurity learning journey, I have also been getting hands-on with Nmap a powerful tool that helps scan networks, find open ports and identify services running on a system (including whether or not they are using secure protocols like HTTPS).
+
+It’s been eye-opening to see how these tools help us detect vulnerabilities before attackers do.
